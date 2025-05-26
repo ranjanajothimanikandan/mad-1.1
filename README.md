@@ -16,11 +16,11 @@ To install and run Android applications using Android Studio, This project aims 
 5.Stable Internet Connection – For downloading SDK tools and dependencies
 
 6.USB Cable – If testing on a physical Android device
-## PROGRAM:
+
 ```
 Program to print the list of item.
-Developed by:SUJI S
-Registeration Number :212222040164
+Developed by:RANJANA J
+Registeration Number :212222040131
 ```
 
 ## ALGORITHM:
